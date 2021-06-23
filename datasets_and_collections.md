@@ -8,8 +8,6 @@ Note that broader lists of datasets are being collected in the project including
 
 ## Dataset description template
 
-**Name:** Name of the dataset
-
 **Link:** Link to the dataset
 
 **Format:** Format of the data in the datasets (e.g. Midi, ABC, Music XML)
