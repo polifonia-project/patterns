@@ -56,6 +56,17 @@ When looking at patterns in specific pieces of music, as they appear in a broade
 
 Similarity of music generated using patterns can be considered a possible way of evaluate patterns, as for example done in [1]. 
 
+### Distinctiveness
+
+In [2] a statistical approach is used to measure the
+distinctiveness of a pattern: it is the probability p of finding
+at least the observed number of pieces of family F when
+taking a single random sample of pieces from the entire
+corpus F ∪ ¬F. A pattern is then considered distinctive if
+its p-value falls below some specified significance level α
+(see Conklin, 2013, for details)
+
 ## Reference
 
 [1] https://www.aclweb.org/anthology/2020.nlp4musa-1.10.pdf
+[2] https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1016&context=fema
