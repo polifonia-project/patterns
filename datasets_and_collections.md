@@ -57,6 +57,8 @@ correspond to some of these annotated motifs.
 
 **Used in experiements:** TBC
 
+
+
 ## Weimar Jazz Database (WJazzD) 
 
 **Link:** https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html
@@ -70,6 +72,23 @@ correspond to some of these annotated motifs.
 **Description:** a comprehensive and representative database of jazz solo transcription.
 
 **Used in related work:** Jazz pattern http://dig-that-lick.eecs.qmul.ac.uk/
+
+**Used in experiements:** TBC
+
+
+## Schubert Winterreise Dataset
+
+**Link:** https://zenodo.org/record/4431535#.YNMp9HVKhH4
+
+**Format:** many, including midi and musicxml
+
+**Tradition(s):** Classical
+
+**Size:** 24
+
+**Description:** The Schubert Winterreise Dataset (SWD) is a multimodal dataset comprising various representations and annotations of Franz Schubert's 24-song cycle Winterreise. The primary material (raw data) consists of textual representations of the songs' lyrics, music scores in image, symbolic, and MIDI format, as well as nine audio recordings of performances (only two included due to copyright issues). The secondary material (annotations) comprises information of musical measure positions in sheet music images and audio recordings as well as analyses of chords, local keys, global keys, and structural parts. 
+
+**Used in related work:** TBC
 
 **Used in experiements:** TBC
 
