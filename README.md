@@ -7,6 +7,6 @@ This repository aims to collect resources and experiment in the Polifonia projec
 
 The idea here is that we will explore the different possibilities related to music representation, pattern mining techniques and pattern assessement metrics by experimenting, in subteams, through collections of music data that, ideally, represent specific music traditions for which there is expertise in the project. Experiments here therefore are tests, scripts, techniques, results, etc. that are applied to such collections and that might eventually lead to results applicable to other repositories.
 
-## What about the "Ontology" folder
+## What about the "ontology" folder
 
 One output of the work on patterns in Polifonia is a contribution to describing music ontologically through patterns. We therefore expect part results of experiments and of our exploration of related to work to translate into an ontological description of musical patterns, their different types, their relations and the methods used to find and analyse them. 
