@@ -92,3 +92,19 @@ correspond to some of these annotated motifs.
 
 **Used in experiements:** TBC
 
+## NEUMA 
+
+**Link:** http://neuma.huma-num.fr/
+
+**Format:** musicxml
+
+**Tradition(s):** - 
+
+**Size:** - 
+
+**Description:** NEUMA is a digital library of music scores encoded in MusicXML en MEI. Its objectives are threefold. First, we give an on-line access to rare and often hardly accessible corpora, produced with a precise and homogeneous editing process. Second, Neuma demonstrates with interactive search and analytic tools how music notation can support advanced functionalities to explore digital scores. Finally, we also supply dissemination tools and service to let you access to large corpora of scores for your own purposes.
+
+**Used in related work:** TBC
+
+**Used in experiements:** TBC
+
