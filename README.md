@@ -1,4 +1,7 @@
-This repository aims to collect resources and experiment in the Polifonia project in relation to pattern extraction, pattern mining and pattern analysis. It includes currently three main parts as subfolders of this repository: related-work that includes resources related to various aspect of the pattern work in the project, datasets, which includes information about existing data collections that are used as a basis of the pattern work, and experiments.
+This repository aims to collect resources and experiment in the Polifonia project in relation to pattern extraction, pattern mining and pattern analysis. It includes currently three main parts of this repository: related-work that includes resources related to various aspect of the pattern work in the project, datasets, which includes information about existing data collections that are used as a basis of the pattern work, and experiments.
+
+**Note:** What is described in this repository is, naturally, work in progress. Members of the Polifonia consortium should be adding, editing and generally contribiting continuously. 
+
 
 ## What are experiments in this context
 
