@@ -6,21 +6,21 @@ This document lists work related to pattern extraction, pattern mining and patte
 
 Even if we focus, in this work, on symbolic music representaton, some pre-processing is generally required to repesent music data in a form that is suitable for pattern mining. In most cases, this will require simplifications that will lead to focusing on certain types of patterns. In the descriptions of the possible representation below, references to works having used them as well as to the kind of patterns they enable are included.
 
-## Vector of note pitch
+### Vector of note pitch
 
-## Vector of note intervals
+### Vector of note intervals
 
-## Vector of note pitch class
+### Vector of note pitch class
 
-## Vector of note duration
+### Vector of note duration
 
-## Vector of note events
+### Vector of note events
 
-## Parson's representation 
+### Parson's representation 
 
-## Melodic shapes
+### Melodic shapes
 
-## Embeddings 
+### Embeddings 
 
 ## Pattern mining techniques for music data
 
