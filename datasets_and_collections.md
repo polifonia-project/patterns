@@ -92,6 +92,8 @@ correspond to some of these annotated motifs.
 
 **Used in experiements:** TBC
 
+
+
 ## NEUMA 
 
 **Link:** http://neuma.huma-num.fr/
@@ -108,3 +110,19 @@ correspond to some of these annotated motifs.
 
 **Used in experiements:** TBC
 
+
+## Breandán Breathnach’s Ceol Rince Na hÉireann 
+
+**Link:** available from http://www.capeirish.com/webabc/working/list_of_folders2.html
+
+**Format:** ABC
+
+**Tradition(s):** Irish Traditional Music
+
+**Size:** >1000
+
+**Description:** Transcribed tunes from the 5 volumes of the Breandán Breathnach’s Ceol Rince Na hÉireann, which is universally held as the most definitive print collection of Irish traditional material of the second half of the 20th century.
+
+**Used in related work:** TunePal. 
+
+**Used in experiements:** NUI Galway's pattern mining experiments. 
