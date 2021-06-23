@@ -22,6 +22,8 @@ Note that broader lists of datasets are being collected in the project including
 
 **Used in experiements:** A description and reference to experiments using the dataset for pattern analysis in Polifonia
 
+
+
 ## MTC-ANN 2.0
 
 **Link:** TBC
@@ -54,3 +56,20 @@ correspond to some of these annotated motifs.
 **Used in related work:** https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1016&context=fema
 
 **Used in experiements:** TBC
+
+## Weimar Jazz Database (WJazzD) 
+
+**Link:** https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html
+
+**Format:** lots of metadata, scores, midi and csv
+
+**Tradition(s):** Jazz
+
+**Size:** 456
+
+**Description:** a comprehensive and representative database of jazz solo transcription.
+
+**Used in related work:** Jazz pattern http://dig-that-lick.eecs.qmul.ac.uk/
+
+**Used in experiements:** TBC
+
